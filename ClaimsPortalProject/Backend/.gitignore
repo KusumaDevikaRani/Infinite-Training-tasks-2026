@@ -1,0 +1,9 @@
+"
+bin/
+obj/
+.vs/
+*.user
+*.suo
+ClaimPortal.http
+appsettings.Development.json
+"@|out-File -Encoding utf8 .gitignore
